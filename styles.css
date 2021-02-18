@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
+h2 {
+    position: absolute;
+    top: 275px;
+    left: 1000px;
+    font-family: cursive;
+}
+
+
+ .atari {
+	 font-family: 'press start 2p';
+	 font-size: 3rem;
+	 background: #1e1e28;
+	 color: rgba(255, 255, 255, .9);
+	 text-shadow: 0 0.1em 0 #000;
+}
